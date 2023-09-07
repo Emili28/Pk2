@@ -14,3 +14,10 @@ p {
   font-size:20px;
   font-family:"luciana grande"
 }
+li {
+  color: #444;
+}
+
+.selected{
+  color:#ff0000;
+}
